@@ -1,0 +1,19 @@
+{
+	"name": "awesome Patterns",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lei Wang",
+            "email": "leiwgz@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AwesomePatterns\\": "src/AwesomePatterns/"
+        }
+    }
+}
