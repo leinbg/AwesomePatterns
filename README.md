@@ -8,7 +8,8 @@ Awesome Patterns
 done
 -------
 - Strategy
+- Adapter
 
 todo
 -----
-- Adapter
+- Template
