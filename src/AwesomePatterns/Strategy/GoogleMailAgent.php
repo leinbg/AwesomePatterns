@@ -7,12 +7,12 @@ namespace AwesomePatterns\Strategy;
  */
 class GoogleMailAgent implements EmailAgentInterface
 {
-	/**
-	 * send Mail by Google Agent
-	 * @return string
-	 */
-	public function sendMail()
-	{
-		return 'Google';
-	}
+    /**
+     * send Mail by Google Agent
+     * @return string
+     */
+    public function sendMail()
+    {
+        return 'Google';
+    }
 }
