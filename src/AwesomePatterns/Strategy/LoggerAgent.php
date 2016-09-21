@@ -7,12 +7,12 @@ namespace AwesomePatterns\Strategy;
  */
 class LoggerAgent implements EmailAgentInterface
 {
-	/**
-	 * send Mail to Logger
-	 * @return string
-	 */
-	public function sendMail()
-	{
-		return 'Logger';
-	}
+    /**
+     * send Mail to Logger
+     * @return string
+     */
+    public function sendMail()
+    {
+        return 'Logger';
+    }
 }

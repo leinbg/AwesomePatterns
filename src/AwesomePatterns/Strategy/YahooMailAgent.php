@@ -7,12 +7,12 @@ namespace AwesomePatterns\Strategy;
  */
 class YahooMailAgent implements EmailAgentInterface
 {
-	/**
-	 * send Mail by Yahoo Agent
-	 * @return string
-	 */
-	public function sendMail()
-	{
-		return 'Yahoo';
-	}
+    /**
+     * send Mail by Yahoo Agent
+     * @return string
+     */
+    public function sendMail()
+    {
+        return 'Yahoo';
+    }
 }
