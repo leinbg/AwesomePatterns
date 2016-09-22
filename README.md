@@ -9,7 +9,8 @@ done
 -------
 - Strategy
 - Adapter
+- Template
 
 todo
 -----
-- Template
+- Decorator

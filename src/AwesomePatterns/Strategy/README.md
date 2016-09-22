@@ -1,6 +1,7 @@
 Strategy Pattern
 ==================
-Define a family of algorithms, encapsulate each one, and force them __interchangeable at run time__ by capturing the abstraction in an interface and bury implementation details in derived classes.
+Define a family of algorithms, encapsulate each one, and force them __interchangeable at run time__ 
+by capturing the abstraction in an interface and bury implementation details in derived classes.
 
 Strategy lets the algorithm vary independently from the clients that use it.
 
