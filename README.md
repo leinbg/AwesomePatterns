@@ -11,7 +11,7 @@ done
 - Adapter
 - Template
 - Decorator
+- Fluent Interface
 
 todo
 -----
-- Fluent Interface
