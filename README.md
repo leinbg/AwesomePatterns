@@ -10,7 +10,8 @@ done
 - Strategy
 - Adapter
 - Template
+- Decorator
 
 todo
 -----
-- Decorator
+- Fluent Interface
