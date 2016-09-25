@@ -1,6 +1,6 @@
 Strategy Pattern
 ==================
-Decorators allows user to extend functionality of a class dynamically by recursively wrapping it.
+Decorators allows user to extend functionality of a class dynamically by __recursively wrapping__ it.
 Wrapping a gift, putting it in a box, and wrapping the box.
 
 Example

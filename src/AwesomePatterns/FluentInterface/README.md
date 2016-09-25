@@ -1,6 +1,6 @@
 Fluent Interface
 ==================
-Chaining method called together by returning $this in each one.
+Chaining method called together by returning __$this__ in each one.
 hard to test, but sometimes make Code more readable, especially in api design.
 
 Example

@@ -2,7 +2,7 @@ Template Pattern
 ==================
 Template Method lets subclasses redefine certain steps of an algorithm 
 without changing the algorithm's structure defined in base (abstract) class 
-Base class declares algorithm 'placeholders', and derived classes implement the placeholders.
+Base class declares algorithm __'placeholders'__, and derived classes implement the placeholders.
 
 Example
 ---------

@@ -12,6 +12,7 @@ done
 - Template
 - Decorator
 - Fluent Interface
+- View Presenter
 
 todo
 -----
@@ -20,7 +21,6 @@ todo
 - Command
 - Command Bus
 - Responsibility
-- View Presenter
 - Null Object
 - Query Object
 - Form Object
