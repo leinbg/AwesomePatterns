@@ -15,3 +15,15 @@ done
 
 todo
 -----
+- Chain of Responsibility
+- Observer
+- Command
+- Command Bus
+- Responsibility
+- View Presenter
+- Null Object
+- Query Object
+- Form Object
+- Use Case
+- Policy
+- Specification
