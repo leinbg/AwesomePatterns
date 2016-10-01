@@ -13,10 +13,10 @@ done
 - Decorator
 - Fluent Interface
 - View Presenter
+- Chain of Responsibility
 
 todo
 -----
-- Chain of Responsibility
 - Observer
 - Command
 - Command Bus
