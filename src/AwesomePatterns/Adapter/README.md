@@ -1,6 +1,7 @@
 Strategy Pattern
 ==================
-Convert the interface of a class into another __interface clients expect__. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+Convert the interface of a class into another __interface clients expect__.
+Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 Wrap an existing class with a new interface or Impedance match an old component to a new system
 

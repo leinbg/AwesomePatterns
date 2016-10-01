@@ -12,6 +12,18 @@ done
 - Template
 - Decorator
 - Fluent Interface
+- View Presenter
+- Chain of Responsibility
 
 todo
 -----
+- Observer
+- Command
+- Command Bus
+- Responsibility
+- Null Object
+- Query Object
+- Form Object
+- Use Case
+- Policy
+- Specification
