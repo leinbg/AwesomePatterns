@@ -14,10 +14,10 @@ done
 - Fluent Interface
 - View Presenter
 - Chain of Responsibility
+- Observer
 
 todo
 -----
-- Observer
 - Command
 - Command Bus
 - Responsibility
