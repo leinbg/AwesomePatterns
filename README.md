@@ -17,9 +17,9 @@ done
 - Observer
 - Null Object
 - Specification
+- Factory
 
 todo
 -----
 - Command
 - Policy
-- Factory
