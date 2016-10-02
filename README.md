@@ -14,14 +14,14 @@ done
 - Fluent Interface
 - View Presenter
 - Chain of Responsibility
+- Observer
+- Null Object
 
 todo
 -----
-- Observer
 - Command
 - Command Bus
 - Responsibility
-- Null Object
 - Query Object
 - Form Object
 - Use Case
