@@ -16,14 +16,10 @@ done
 - Chain of Responsibility
 - Observer
 - Null Object
+- Specification
 
 todo
 -----
 - Command
-- Command Bus
-- Responsibility
-- Query Object
-- Form Object
-- Use Case
 - Policy
-- Specification
+- Factory
