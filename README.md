@@ -23,6 +23,3 @@ todo
 - Command
 - Policy
 - Factory
-
-- Query Object
-- Form Object
