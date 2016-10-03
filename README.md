@@ -18,8 +18,7 @@ done
 - Null Object
 - Specification
 - Factory
+- Command
 
 todo
 -----
-- Command
-- Policy
