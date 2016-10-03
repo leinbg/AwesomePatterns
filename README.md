@@ -7,18 +7,18 @@ Awesome Patterns
 
 done
 -------
-- Strategy
 - Adapter
-- Template
-- Decorator
-- Fluent Interface
-- View Presenter
 - Chain of Responsibility
-- Observer
-- Null Object
-- Specification
-- Factory
 - Command
+- Decorator
+- Factory
+- Fluent Interface
+- Null Object
+- Observer
+- Specification
+- Strategy
+- Template
+- View Presenter
 
 todo
 -----
