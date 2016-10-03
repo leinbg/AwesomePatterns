@@ -7,7 +7,7 @@ Awesome Patterns
 what is it, why is it useful, how to use it.
 
 done list
--------
+---------
 - Adapter
     - __matches interfaces__ of different classes
     - same api for all relative services (fetching data from filesystem)
